@@ -1,1 +1,20 @@
 /*CSS Style Document*/
+h1{
+	color:purple;
+	font-family:Georgia;
+	font-size:36;
+							}
+
+p{
+	color:red;
+	font-family:Georgia;
+	font-size:24;
+						}
+
+img{
+	height:200px;
+	width:300px;
+					}
+ul
+{list-style-type:square;
+						}
